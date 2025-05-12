@@ -18,4 +18,5 @@ coffee:coffee a skos:Concept ;
     skos:prefLabel "Kaffee"@de, "coffee"@en ;
     skos:topConceptOf coffee: .
 
-coffee:unnamed a skos:Concept .
+coffee:unnamed a skos:Concept ;
+    skos:topConceptOf coffee: .
