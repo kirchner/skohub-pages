@@ -1,13 +1,13 @@
 {
-  "id": "https://example.org/colour/blue",
+  "id": "https://example.org/coffee/coffee",
   "type": "Concept",
   "prefLabel": {
-    "en": "blue",
-    "de": "Blau"
+    "en": "coffee",
+    "de": "Kaffee"
   },
   "inScheme": [
     {
-      "id": "https://example.org/colour/",
+      "id": "https://example.org/coffee/",
       "title": {
         "en": "Coffee Vocabulary",
         "de": "Kaffeevokabular"
@@ -16,12 +16,12 @@
   ],
   "inSchemeAll": [
     {
-      "id": "https://example.org/colour/"
+      "id": "https://example.org/coffee/"
     }
   ],
   "topConceptOf": [
     {
-      "id": "https://example.org/colour/",
+      "id": "https://example.org/coffee/",
       "title": {
         "en": "Coffee Vocabulary",
         "de": "Kaffeevokabular"
